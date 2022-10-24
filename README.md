@@ -18,6 +18,10 @@ bash <(curl -Ls https://raw.githubusercontent.com/atrandys/xray/main/install.sh)
 ## install_wp.sh使用
 bash <(curl -Ls https://raw.githubusercontent.com/atrandys/xray/main/install_wp.sh)
 
+配置WS+cdn
+bash <(curl -Ls https://raw.githubusercontent.com/sealburger/xray/main/install_triple_config.sh)
+
+
 ## client使用
 - OpenWrt
   - [PassWall](https://github.com/xiaorouji/openwrt-passwall)
