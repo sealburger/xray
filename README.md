@@ -19,6 +19,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/atrandys/xray/main/install.sh)
 bash <(curl -Ls https://raw.githubusercontent.com/atrandys/xray/main/install_wp.sh)
 
 配置WS+cdn
+
 bash <(curl -Ls https://raw.githubusercontent.com/sealburger/xray/main/install_triple_config.sh)
 
 
